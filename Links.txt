@@ -1,0 +1,51 @@
+# Домашние контесты Python
+https://official.contest.yandex.ru/contest/13823
+https://official.contest.yandex.ru/contest/13865
+https://official.contest.yandex.ru/contest/14002
+https://official.contest.yandex.ru/contest/14003
+https://official.contest.yandex.ru/contest/14216
+https://official.contest.yandex.ru/contest/14217
+https://official.contest.yandex.ru/contest/14388
+https://official.contest.yandex.ru/contest/14389
+https://official.contest.yandex.ru/contest/14542
+https://official.contest.yandex.ru/contest/14544
+https://official.contest.yandex.ru/contest/14686
+https://official.contest.yandex.ru/contest/14687
+# Контрольные Python
+https://official.contest.yandex.ru/contest/14387
+https://official.contest.yandex.ru/contest/14688
+https://official.contest.yandex.ru/contest/14004
+# Экзамен Python
+https://official.contest.yandex.ru/contest/14761
+# Контесты алгосов 2 модуль
+https://official.contest.yandex.ru/contest/15275/enter/
+https://official.contest.yandex.ru/contest/15879/enter/
+https://official.contest.yandex.ru/contest/16023/enter/
+https://official.contest.yandex.ru/contest/16184/enter/
+https://official.contest.yandex.ru/contest/16285/enter/
+# Домашние контесты C++
+https://official.contest.yandex.ru/contest/16579/problems/
+https://official.contest.yandex.ru/contest/16580/problems/
+https://official.contest.yandex.ru/contest/16581/problems/
+https://official.contest.yandex.ru/contest/16582/problems/
+https://official.contest.yandex.ru/contest/16583/problems/
+https://official.contest.yandex.ru/contest/16584/problems/
+https://official.contest.yandex.ru/contest/16585/problems/
+https://official.contest.yandex.ru/contest/16586/problems/
+# Контрольные C++
+https://official.contest.yandex.ru/contest/16996/problems/
+https://official.contest.yandex.ru/contest/17293/problems/
+https://official.contest.yandex.ru/contest/17421/problems/
+https://official.contest.yandex.ru/contest/17451/problems/
+# Контесты алгосов 4 модуль
+https://official.contest.yandex.ru/contest/17956/enter/
+https://official.contest.yandex.ru/contest/17597/enter/
+https://official.contest.yandex.ru/contest/18146/enter/
+https://official.contest.yandex.ru/contest/18237/enter/
+https://official.contest.yandex.ru/contest/18267/enter/
+https://official.contest.yandex.ru/contest/18474/enter/
+https://official.contest.yandex.ru/contest/18564/enter/
+https://official.contest.yandex.ru/contest/18592/enter/
+# Контрольные алгосов 4 модуль
+https://official.contest.yandex.ru/contest/18294/enter/
+https://official.contest.yandex.ru/contest/18361/enter/
