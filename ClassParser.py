@@ -30,6 +30,8 @@ class ParserOIMP:
                 form['retpath'] = soup.find('input', attrs={'name': "retpath"}).attrs['value']
                 form['sk'] = soup.find('input', attrs={'name': "sk"}).attrs['value']
                 s = session.post(URL, data=form, headers=ParserOIMP.headers)
+                if 'error' in s.url:
+                    raise ValueError('Incorrect login or password')
                 print('Авторизовались')
             return s.text
 
