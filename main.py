@@ -1,6 +1,9 @@
 from ClassParser import ParserOIMP
+from getpass import getpass
 
-person = ParserOIMP('login', 'password')  # авторизация
+login = input('login: ')
+password = getpass('password: ')
+person = ParserOIMP(login, password)  # авторизация
 ParserOIMP.mask = ['OK', 'WA', 'RE', 'TL', 'CE']  # какие посылки сохранять
 with open('Links.txt', 'r') as file:  # проходимся по контестам
     for URL in file:
