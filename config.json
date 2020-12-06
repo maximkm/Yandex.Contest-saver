@@ -1,0 +1,15 @@
+{
+"login": "",
+"password": "",
+"mask": [
+"OK",
+"WA",
+"RE",
+"TL",
+"CE"
+],
+"save_solutions": true,
+"tasks_in_html": true,
+"tasks_in_txt": false,
+"save_result_table": true
+}
